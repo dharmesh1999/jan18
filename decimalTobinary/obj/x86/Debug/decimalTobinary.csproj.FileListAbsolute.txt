@@ -1,0 +1,4 @@
+C:\Users\khand\documents\visual studio 2010\Projects\jan18\decimalTobinary\bin\Debug\decimalTobinary.exe
+C:\Users\khand\documents\visual studio 2010\Projects\jan18\decimalTobinary\bin\Debug\decimalTobinary.pdb
+C:\Users\khand\documents\visual studio 2010\Projects\jan18\decimalTobinary\obj\x86\Debug\decimalTobinary.exe
+C:\Users\khand\documents\visual studio 2010\Projects\jan18\decimalTobinary\obj\x86\Debug\decimalTobinary.pdb
